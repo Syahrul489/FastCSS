@@ -1,0 +1,133 @@
+-->Backgroud<--
+.bg-white {
+  background: #fff;
+}
+.bg-black {
+  background: #000;
+}
+.bg-blue {
+  background: #0000ff;
+}
+.bg-aqua {
+  background: #00ffff;
+}
+.bg-darkblue {
+  background: #00008b;
+}
+.bg-green {
+  background: #008000;
+}
+.bg-pink {
+  background: #ff69b4;
+}
+.bg-red {
+  background: #ff0000;
+}
+.bg-yellow {
+  background: #ffff00;
+}
+.bg-orange {
+  background: #ff6600;
+}
+.bg-brown {
+  background: #331440;
+}
+
+-->Color Text<--
+.blank {
+  color: blank;
+}
+.white {
+  color: #fff;
+}
+.black {
+  color: #000;
+}
+.blue {
+  color: #0000ff;
+}
+.aqua {
+  color: #00ffff;
+}
+.darkblue {
+  color: #00008b;
+}
+.green {
+  color: #008000;
+}
+.pink {
+  color: #ff69b4;
+}
+.red {
+  color: #ff0000;
+}
+.yellow {
+  color: #ffff00;
+}
+.orange {
+  color: #ff6600;
+}
+.brown {
+  color: #331440;
+}
+
+-->Border Radius<--
+
+.br99999{
+  border-radius: 100px;
+}
+.br1{
+  border-radius: 5px;
+}
+.br2{
+  border-radius: 25%;
+}
+.br3{
+  border-radius: 50%;
+}
+.br4{
+  border-radius: 100%;
+}
+
+-->Font Size<--
+.fs999999{
+  font-size: 0px;
+}
+.fs1 {
+  font-size: 5px;
+}
+.fs2 {
+  font-size: 10px;
+}
+.fs3 {
+  font-size: 15px;
+}
+.fs4 {
+  font-size: 20px;
+}
+.fs5 {
+  font-size: 25px;
+}
+.fs6 {
+  font-size: 30px;
+}
+.fs7 {
+  font-size: 35px;
+}
+.fs8 {
+  font-size: 40px;
+}
+.fs9 {
+  font-size: 45px;
+}
+.fs10 {
+  font-size: 50px;
+}
+
+-->Border Color<--
+.bc99999 {
+  border-color: gg;
+}
+.bc-black {
+  border: 2px solid black;
+}
